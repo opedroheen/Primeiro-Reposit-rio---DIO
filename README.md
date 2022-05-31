@@ -1,2 +1,2 @@
-# Primeiro-Reposit-rio---DIO
+# Primeiro-Repositorio-DIO
 Meu primeiro repositório feito através do GitHub para o curso de Introdução ao Git e ao GitHub na DIO!
