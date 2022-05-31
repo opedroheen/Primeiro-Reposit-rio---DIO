@@ -1,0 +1,5 @@
+Teste de arquivo .txt em uma pasta localizada no:
+
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Documents\Dev\Primeiro-Reposit-rio---DIO\Introdução Git e GitHub
+
+é isso, galera!
